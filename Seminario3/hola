@@ -1,0 +1,3611 @@
+mpirun -np 10 ./ejemplo_iprobe_exe
+inicio del receptor
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  0, 0, 0, 0, 0, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  0, 1, 0, 0, 0, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  0, 2, 0, 0, 0, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  0, 2, 1, 0, 0, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  0, 2, 1, 1, 0, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  0, 2, 1, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  1, 2, 1, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  1, 3, 1, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  1, 3, 2, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  2, 3, 2, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  2, 3, 3, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  2, 4, 3, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  2, 5, 3, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  2, 5, 4, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  3, 5, 4, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  3, 6, 4, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  3, 6, 5, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  4, 6, 5, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  4, 7, 5, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  4, 7, 6, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  5, 7, 6, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  6, 7, 6, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  6, 8, 6, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  6, 8, 7, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  7, 8, 7, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  8, 8, 7, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  8, 9, 7, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  8, 10, 7, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  8, 11, 7, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  8, 12, 7, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  8, 12, 8, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  9, 12, 8, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  9, 13, 8, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  9, 13, 9, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  9, 13, 10, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  10, 13, 10, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  10, 14, 10, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  10, 14, 11, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  11, 14, 11, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  12, 14, 11, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  12, 15, 11, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  12, 15, 12, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  13, 15, 12, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  13, 16, 12, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  13, 16, 13, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  14, 16, 13, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  14, 17, 13, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  14, 17, 14, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  15, 17, 14, 1, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  15, 17, 14, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  16, 17, 14, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  16, 18, 14, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  16, 19, 14, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  16, 19, 15, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  16, 20, 15, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  17, 20, 15, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  17, 21, 15, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  17, 21, 16, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  18, 21, 16, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  18, 22, 16, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  18, 22, 17, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  19, 22, 17, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  19, 23, 17, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  19, 24, 17, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  19, 24, 18, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  20, 24, 18, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  21, 24, 18, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  21, 25, 18, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  21, 25, 19, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  22, 25, 19, 2, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  22, 25, 19, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  23, 25, 19, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  23, 26, 19, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  23, 26, 20, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  24, 26, 20, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  24, 27, 20, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  24, 27, 21, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  25, 27, 21, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  25, 27, 22, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  26, 27, 22, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  26, 28, 22, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  26, 28, 23, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  27, 28, 23, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  27, 29, 23, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  27, 29, 24, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  27, 29, 25, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  28, 29, 25, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  28, 30, 25, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  28, 30, 26, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  29, 30, 26, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  29, 31, 26, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  29, 31, 27, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  30, 31, 27, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  30, 32, 27, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  30, 33, 27, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  30, 33, 28, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  31, 33, 28, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  31, 34, 28, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  31, 34, 29, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  31, 35, 29, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  32, 35, 29, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  32, 36, 29, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  32, 37, 29, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  32, 37, 30, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  33, 37, 30, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  33, 38, 30, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  33, 38, 31, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  34, 38, 31, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  34, 39, 31, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  34, 39, 32, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  35, 39, 32, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  35, 40, 32, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  35, 40, 33, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  36, 40, 33, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  37, 40, 33, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  37, 41, 33, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  37, 41, 34, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  38, 41, 34, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  38, 42, 34, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  38, 42, 35, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  38, 42, 36, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  39, 42, 36, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  39, 43, 36, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  39, 43, 37, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  40, 43, 37, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  41, 43, 37, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  41, 44, 37, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  41, 44, 38, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  42, 44, 38, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  42, 45, 38, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  42, 46, 38, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  42, 47, 38, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  42, 47, 39, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  43, 47, 39, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  43, 48, 39, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  43, 48, 40, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  44, 48, 40, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  44, 49, 40, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  44, 49, 41, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  45, 49, 41, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  46, 49, 41, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  47, 49, 41, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  47, 50, 41, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  47, 50, 42, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  48, 50, 42, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  48, 51, 42, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  48, 51, 43, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  48, 51, 44, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  49, 51, 44, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  49, 52, 44, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  49, 52, 45, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  50, 52, 45, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  50, 53, 45, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  50, 53, 46, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  51, 53, 46, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  51, 53, 47, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  51, 53, 48, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  52, 53, 48, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  52, 54, 48, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  52, 54, 49, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  53, 54, 49, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  53, 55, 49, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  53, 55, 50, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  54, 55, 50, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  54, 56, 50, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  54, 57, 50, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  54, 57, 51, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  55, 57, 51, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  55, 58, 51, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  55, 58, 52, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  56, 58, 52, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  56, 59, 52, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  56, 59, 53, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  57, 59, 53, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  57, 60, 53, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  57, 60, 54, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  58, 60, 54, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  58, 61, 54, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  58, 61, 55, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  59, 61, 55, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  59, 62, 55, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  59, 62, 56, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  59, 62, 57, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  60, 62, 57, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  60, 63, 57, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  60, 63, 58, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  61, 63, 58, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  61, 64, 58, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  61, 64, 59, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  62, 64, 59, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  63, 64, 59, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  63, 65, 59, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  63, 65, 60, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  64, 65, 60, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  64, 66, 60, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  64, 66, 61, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  65, 66, 61, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  65, 67, 61, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  65, 67, 62, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  66, 67, 62, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  66, 68, 62, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  66, 68, 63, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  67, 68, 63, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  67, 69, 63, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  67, 69, 64, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  68, 69, 64, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  69, 69, 64, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  69, 70, 64, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  69, 70, 65, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  70, 70, 65, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  71, 70, 65, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  71, 71, 65, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  71, 71, 66, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  72, 71, 66, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  72, 72, 66, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  72, 72, 67, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  73, 72, 67, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  73, 73, 67, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  73, 74, 67, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  73, 75, 67, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  73, 76, 67, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  73, 76, 68, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  74, 76, 68, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  74, 77, 68, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  74, 77, 69, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  75, 77, 69, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  75, 78, 69, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  75, 78, 70, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  76, 78, 70, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  77, 78, 70, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  78, 78, 70, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  79, 78, 70, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  79, 79, 70, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  79, 79, 71, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  80, 79, 71, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  80, 80, 71, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  80, 80, 72, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  81, 80, 72, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  81, 81, 72, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  81, 81, 73, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  82, 81, 73, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  82, 82, 73, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  82, 82, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  83, 82, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  84, 82, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  85, 82, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  86, 82, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  87, 82, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  88, 82, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  88, 83, 74, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  88, 83, 75, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  89, 83, 75, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  89, 84, 75, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  89, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  90, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  91, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  92, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  93, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  94, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  95, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  96, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  97, 84, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  97, 85, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  97, 86, 76, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  97, 86, 77, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  98, 86, 77, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  98, 87, 77, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  98, 87, 78, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  99, 87, 78, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  99, 88, 78, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  99, 88, 79, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 1
+Receptor ha recibido de 1
+Núm. de mensajes recibidos de cada emisor:  100, 88, 79, 3, 1, 0, 0, 1, 0, 
+
+acaba emisor : 1
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 89, 79, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 89, 80, 3, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 89, 80, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 89, 81, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 90, 81, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 90, 82, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 91, 82, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 92, 82, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 92, 83, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 93, 83, 4, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 93, 83, 5, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 94, 83, 5, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 94, 84, 5, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 95, 84, 5, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 95, 85, 5, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 96, 85, 5, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 96, 86, 5, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 96, 86, 6, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 97, 86, 6, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 98, 86, 6, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 99, 86, 6, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 99, 87, 6, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 2
+Receptor ha recibido de 2
+Núm. de mensajes recibidos de cada emisor:  100, 100, 87, 6, 1, 0, 0, 1, 0, 
+
+acaba emisor : 2
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 87, 7, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 88, 7, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 88, 8, 1, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 88, 8, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 89, 8, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 90, 8, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 91, 8, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 91, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 92, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 93, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 94, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 95, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 96, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 97, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 98, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 99, 9, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 3
+Receptor ha recibido de 3
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 9, 2, 0, 0, 1, 0, 
+
+acaba emisor : 3
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 10, 2, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 10, 3, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 11, 3, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 11, 4, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 12, 4, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 12, 5, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 13, 5, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 13, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 14, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 15, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 16, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 17, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 18, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 19, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 20, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 21, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 22, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 23, 6, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 23, 7, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 24, 7, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 24, 8, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 25, 8, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 25, 9, 0, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 25, 9, 1, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 26, 9, 1, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 26, 10, 1, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 27, 10, 1, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 27, 10, 2, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 28, 10, 2, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 28, 11, 2, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 29, 11, 2, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 29, 12, 2, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 29, 12, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 30, 12, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 30, 13, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 31, 13, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 31, 14, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 32, 14, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 32, 15, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 33, 15, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 33, 16, 3, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 33, 16, 4, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 34, 16, 4, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 34, 17, 4, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 34, 17, 5, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 35, 17, 5, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 35, 18, 5, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 36, 18, 5, 0, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 36, 18, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 37, 18, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 37, 19, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 38, 19, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 38, 20, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 39, 20, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 39, 21, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 39, 22, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 40, 22, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 40, 23, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 41, 23, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 41, 24, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 42, 24, 5, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 42, 24, 6, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 43, 24, 6, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 43, 25, 6, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 44, 25, 6, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 44, 26, 6, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 44, 26, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 45, 26, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 45, 27, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 46, 27, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 46, 28, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 47, 28, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 47, 29, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 48, 29, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 48, 30, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 49, 30, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 49, 31, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 50, 31, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 50, 32, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 50, 33, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 51, 33, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 51, 34, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 51, 35, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 52, 35, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 52, 36, 7, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 52, 36, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 53, 36, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 53, 37, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 54, 37, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 55, 37, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 56, 37, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 56, 38, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 57, 38, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 57, 39, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 58, 39, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 58, 40, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 59, 40, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 60, 40, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 60, 41, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 61, 41, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 62, 41, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 63, 41, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 63, 42, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 64, 42, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 64, 43, 8, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 64, 43, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 65, 43, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 66, 43, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 66, 44, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 67, 44, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 68, 44, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 69, 44, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 70, 44, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 70, 45, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 71, 45, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 71, 46, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 72, 46, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 73, 46, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 74, 46, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 74, 47, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 75, 47, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 75, 48, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 76, 48, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 77, 48, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 78, 48, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 79, 48, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 79, 49, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 80, 49, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 81, 49, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 82, 49, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 83, 49, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 83, 50, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 84, 50, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 84, 51, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 85, 51, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 86, 51, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 87, 51, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 88, 51, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 89, 51, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 89, 52, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 90, 52, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 91, 52, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 91, 53, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 92, 53, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 93, 53, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 93, 54, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 94, 54, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 95, 54, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 95, 55, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 96, 55, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 97, 55, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 98, 55, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 99, 55, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 99, 56, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 4
+Receptor ha recibido de 4
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 56, 9, 1, 1, 0, 
+
+acaba emisor : 4
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 57, 9, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 57, 10, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 58, 10, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 59, 10, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 59, 11, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 60, 11, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 60, 12, 1, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 60, 12, 2, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 61, 12, 2, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 61, 13, 2, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 62, 13, 2, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 62, 13, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 63, 13, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 63, 14, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 64, 14, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 64, 15, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 65, 15, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 65, 16, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 66, 16, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 67, 16, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 67, 17, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 68, 17, 3, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 68, 17, 4, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 69, 17, 4, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 69, 18, 4, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 70, 18, 4, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 70, 18, 5, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 71, 18, 5, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 72, 18, 5, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 72, 19, 5, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 73, 19, 5, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 73, 19, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 74, 19, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 74, 20, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 75, 20, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 76, 20, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 77, 20, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 78, 20, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 79, 20, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 80, 20, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 80, 21, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 81, 21, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 82, 21, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 82, 22, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 83, 22, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 83, 23, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 84, 23, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 84, 24, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 85, 24, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 86, 24, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 86, 25, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 87, 25, 6, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 87, 25, 7, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 88, 25, 7, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 88, 26, 7, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 89, 26, 7, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 89, 26, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 90, 26, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 90, 27, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 91, 27, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 91, 28, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 92, 28, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 92, 29, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 93, 29, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 94, 29, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 94, 30, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 95, 30, 8, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 95, 30, 9, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 96, 30, 9, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 96, 31, 9, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 97, 31, 9, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 97, 31, 10, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 98, 31, 10, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 98, 32, 10, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 99, 32, 10, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 99, 32, 11, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 5
+Receptor ha recibido de 5
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 32, 11, 1, 0, 
+
+acaba emisor : 5
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 33, 11, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 33, 12, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 33, 13, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 34, 13, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 34, 14, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 35, 14, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 35, 15, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 36, 15, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 36, 16, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 37, 16, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 37, 17, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 38, 17, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 39, 17, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 39, 18, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 40, 18, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 40, 19, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 41, 19, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 41, 20, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 42, 20, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 42, 21, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 43, 21, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 43, 22, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 44, 22, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 44, 23, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 45, 23, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 46, 23, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 46, 24, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 47, 24, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 47, 25, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 48, 25, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 49, 25, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 50, 25, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 50, 26, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 51, 26, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 51, 27, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 52, 27, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 52, 28, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 53, 28, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 54, 28, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 55, 28, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 56, 28, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 56, 29, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 57, 29, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 58, 29, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 58, 30, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 59, 30, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 59, 31, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 60, 31, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 61, 31, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 62, 31, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 63, 31, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 63, 32, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 64, 32, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 64, 33, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 65, 33, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 65, 34, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 66, 34, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 66, 35, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 67, 35, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 67, 36, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 68, 36, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 68, 37, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 69, 37, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 69, 38, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 70, 38, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 70, 39, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 71, 39, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 72, 39, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 72, 40, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 73, 40, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 74, 40, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 74, 41, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 75, 41, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 75, 42, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 76, 42, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 76, 43, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 77, 43, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 77, 44, 1, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 77, 44, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 78, 44, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 78, 45, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 79, 45, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 79, 46, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 80, 46, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 80, 47, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 81, 47, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 81, 48, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 82, 48, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 82, 49, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 83, 49, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 84, 49, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 85, 49, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 85, 50, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 86, 50, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 86, 51, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 87, 51, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 87, 52, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 88, 52, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 88, 53, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 89, 53, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 90, 53, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 91, 53, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 91, 54, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 92, 54, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 93, 54, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 93, 55, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 94, 55, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 94, 56, 2, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 94, 56, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 95, 56, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 96, 56, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 96, 57, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 97, 57, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 97, 58, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 98, 58, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 98, 59, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 99, 59, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 99, 60, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 6
+Receptor ha recibido de 6
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 60, 3, 0, 
+
+acaba emisor : 6
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 61, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 62, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 63, 3, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 63, 4, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 64, 4, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 64, 5, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 65, 5, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 65, 6, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 66, 6, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 66, 7, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 67, 7, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 68, 7, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 68, 8, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 69, 8, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 69, 9, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 70, 9, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 70, 10, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 71, 10, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 71, 11, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 72, 11, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 72, 12, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 73, 12, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 73, 13, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 74, 13, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 75, 13, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 76, 13, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 76, 14, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 77, 14, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 77, 15, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 78, 15, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 79, 15, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 80, 15, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 81, 15, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 81, 16, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 82, 16, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 83, 16, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 83, 17, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 84, 17, 0, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 84, 18, 0, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 85, 18, 0, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 85, 18, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 86, 18, 1, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 86, 19, 1, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 86, 20, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 87, 20, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 88, 20, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 89, 20, 1, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 89, 21, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 90, 21, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 91, 21, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 92, 21, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 93, 21, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 94, 21, 1, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 94, 22, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 95, 22, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 96, 22, 1, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 96, 23, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 97, 23, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 98, 23, 1, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 98, 24, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 99, 24, 1, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 99, 25, 1, 
+
+Hay al menos un mensaje, del emisor: 7
+Receptor ha recibido de 7
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 25, 1, 
+
+acaba emisor : 7
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 25, 2, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 26, 2, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 27, 2, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 28, 2, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 28, 3, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 29, 3, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 30, 3, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 30, 4, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 31, 4, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 32, 4, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 33, 4, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 33, 5, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 34, 5, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 35, 5, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 35, 6, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 36, 6, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 37, 6, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 38, 6, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 38, 7, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 39, 7, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 40, 7, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 41, 7, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 41, 8, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 42, 8, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 43, 8, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 43, 9, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 44, 9, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 45, 9, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 45, 10, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 46, 10, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 46, 11, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 47, 11, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 47, 12, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 48, 12, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 48, 13, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 49, 13, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 49, 14, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 50, 14, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 50, 15, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 51, 15, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 52, 15, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 53, 15, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 53, 16, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 54, 16, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 54, 17, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 55, 17, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 55, 18, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 56, 18, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 56, 19, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 57, 19, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 58, 19, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 58, 20, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 59, 20, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 60, 20, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 61, 20, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 62, 20, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 62, 21, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 63, 21, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 64, 21, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 65, 21, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 66, 21, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 67, 21, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 68, 21, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 69, 21, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 69, 22, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 70, 22, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 71, 22, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 71, 23, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 72, 23, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 72, 24, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 73, 24, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 74, 24, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 75, 24, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 75, 25, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 76, 25, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 76, 26, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 77, 26, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 78, 26, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 79, 26, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 79, 27, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 80, 27, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 81, 27, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 82, 27, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 82, 28, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 83, 28, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 83, 29, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 84, 29, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 84, 30, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 85, 30, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 85, 31, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 86, 31, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 86, 32, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 87, 32, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 88, 32, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 88, 33, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 89, 33, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 90, 33, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 91, 33, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 92, 33, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 92, 34, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 93, 34, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 94, 34, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 95, 34, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 95, 35, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 96, 35, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 96, 36, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 97, 36, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 97, 37, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 98, 37, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 98, 38, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 99, 38, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 99, 39, 
+
+Hay al menos un mensaje, del emisor: 8
+Receptor ha recibido de 8
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 39, 
+
+acaba emisor : Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 40, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 41, 
+
+8
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 42, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 43, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 44, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 45, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 46, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 47, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 48, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 49, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 50, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 51, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 52, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 53, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 54, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 55, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 56, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 57, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 58, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 59, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 60, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 61, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 62, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 63, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 64, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 65, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 66, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 67, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 68, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 69, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 70, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 71, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 72, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 73, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 74, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 75, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 76, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 77, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 78, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 79, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 80, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 81, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 82, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 83, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 84, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 85, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 86, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 87, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 88, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 89, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 90, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 91, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 92, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 93, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 94, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 95, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 96, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 97, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 98, 
+
+Hay al menos un mensaje, del emisor: 9
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 99, 
+
+No hay mensajes. Recibo de cualquiera.
+Receptor ha recibido de 9
+Núm. de mensajes recibidos de cada emisor:  100, 100, 100, 100, 100, 100, 100, 100, 100, 
+
+acaba emisor : 9
