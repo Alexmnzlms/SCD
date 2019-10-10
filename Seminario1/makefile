@@ -9,7 +9,7 @@ OBJ = obj
 
 all: cabecera\
 help\
-$(BIN)/Calcular_Pi_AML_A1_2GII\
+$(BIN)/Calcular_Pi_exe\
 clean\
 confirm
 
@@ -17,15 +17,15 @@ confirm
 
 #Ejecutables
 #................................................
-$(BIN)/Calcular_Pi_AML_A1_2GII: $(OBJ)/Calcular_Pi_AML_A1_2GII.o
+$(BIN)/Calcular_Pi_exe: $(OBJ)/Calcular_Pi.o
 	@echo "---------------------------------------------------------------------"
 	g++ -o $@ $^ -std=c++11 -pthread
 	@echo "\n"
-	@echo "----------------------Calcular_Pi_AML_A1_2GII-------------------------"
+	@echo "----------------------Calcular_Pi-------------------------"
 
 #Objetos
 #................................................
-$(OBJ)/Calcular_Pi_AML_A1_2GII.o: $(SRC)/Calcular_Pi_AML_A1_2GII.cpp
+$(OBJ)/Calcular_Pi.o: $(SRC)/Calcular_Pi.cpp
 	@echo "---------------------------------------------------------------------"
 	g++ -c -o $@ $^ -std=c++11 -pthread
 	@echo "---------------------------------------------------------------------"
@@ -39,8 +39,8 @@ cabecera :
 	@echo "		Grupo A1 2º GII"
 	@echo "---------------------------------------------------------------------"
 
-ejecutar: 
-	$(BIN)/Calcular_Pi_AML_A1_2GII
+ejecutar:
+	$(BIN)/Calcular_Pi
 
 clean:
 	@-rm $(OBJ)/*
@@ -51,7 +51,7 @@ mr_proper:
 	@echo "Ejecutables eliminados"
 
 comprime: mr_proper
-	tar -cvf Calcular_Pi_AML_A1_2GII.tar makefile obj/ lib/ bin/ include/ src/
+	tar -cvf Calcular_Pi.tar makefile obj/ lib/ bin/ include/ src/
 
 confirm:
 	@echo "---------------------------------------------------------------------"
