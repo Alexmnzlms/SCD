@@ -26,13 +26,13 @@ using namespace std::chrono ;
 const int
    n_productores         = 4 ,
    n_consumidores        = 5 ,
-   id_buffer             = n_productores,
+   id_buffer             = n_productores ,
    etiq_productores      = 0 ,
    etiq_consumidores     = 1 ,
    num_procesos_esperado = n_productores + n_consumidores + 1 ,
-   num_items             = 20 ,
-   produccion_individual = num_items / n_productores,
-   consumicion_individual = num_items / n_consumidores,
+   num_items             = n_productores * n_consumidores ,
+   produccion_individual = num_items / n_productores ,
+   consumicion_individual = num_items / n_consumidores ,
    tam_vector            = 10 ;
 
 //**********************************************************************

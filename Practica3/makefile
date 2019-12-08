@@ -5,25 +5,25 @@ compilador := mpicxx -std=c++11
 flagsc     := -g -Wall
 
 pc: prodcons_exe
-	mpirun -np  3 ./$<
+	mpirun -hostfile hostfile -np  3 ./$<
 
 pc2: prodcons2_exe
-	mpirun -np  3 ./$<
+	mpirun -hostfile hostfile -np  3 ./$<
 
 pcm: prodcons2-mu_exe
-	mpirun -np  10 ./$<
+	mpirun -hostfile hostfile -np  10 ./$<
 
 fp: filosofos-plantilla_exe
-	mpirun -np 10 ./$<
+	mpirun -hostfile hostfile -np 10 ./$<
 
 fi: filosofos-interb_exe
-	mpirun -np 10 ./$<
+	mpirun -hostfile hostfile -np 10 ./$<
 
 f: filosofos_exe
-	mpirun -np 10 ./$<
+	mpirun -hostfile hostfile -np 10 ./$<
 
 fc: filosofos-cam_exe
-	mpirun -np 11 ./$<
+	mpirun -hostfile hostfile -np 11 ./$<
 
 %_exe: %.cpp
 	$(compilador) $(flagsc) -o $@ $<
