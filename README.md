@@ -8,10 +8,10 @@ Este repositorio contiene las prácticas realizadas en la asignatura Sistemas Co
 
 ## Práctica 1
 
-En esta práctica haremos uso de semáforos para la realización de dos ejercicios distintos. Se puede consultar todos sus archivos aquí:
+En esta práctica haremos uso de semáforos para la realización de dos ejercicios distintos. Se puede consultar su código fuente aquí:
 
-- [Productor/Consumidor LIFO](Practica1/Productor-Consumidor)
-- [Problema de los fumadores](Practica1/Fumadores)
+- [Productor/Consumidor LIFO](Practica1/Productor-Consumidor/Productor-Consumidor-[LIFO]-AML.cpp)
+- [Problema de los fumadores](Practica1/Fumadores/Fumadores-AML.cpp)
 
 
 ## Práctica 2
@@ -56,9 +56,9 @@ En esta práctica implementaremos un sistema de tiempo real, calculando su plani
 
 ## Seminario 1
 
-En este seminario se calculará PI haciendo uso de programación concurrente. Puedes consultar todo el proyecto aquí:
+En este seminario se calculará PI haciendo uso de programación concurrente. Puedes consultar su código fuente aquí::
 
-- [Calcular PI](Seminario1/src)
+- [Calcular PI](Seminario1/src/Calcular_Pi.cpp)
 
 
 ## Seminario 2
